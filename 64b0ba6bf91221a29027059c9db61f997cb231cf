@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f0b483ab_d7f2511d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000126
+      },
+      "writtenOn": "2021-12-11T02:37:27Z",
+      "side": 1,
+      "message": "Currently no official 845/710 PE devices build audio HAL from source due to various reasons like ultrasonic proximity sensor. We do not touch the audio HAL for now.\n\nAlso, the author of this commit should be someone from Google.",
+      "revId": "64b0ba6bf91221a29027059c9db61f997cb231cf",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}

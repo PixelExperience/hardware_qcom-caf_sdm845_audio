@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b8d6884_ec126ddb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000126
+      },
+      "writtenOn": "2022-03-29T12:26:12Z",
+      "side": 1,
+      "message": "I don\u0027t think currently any official PE devices are building this from source, but I feel like we should just force push lineage\u0027s 845 caf audio HAL and sync gerrit.",
+      "revId": "1402ae2f9d7a7c2f68966c636140b7313a30cbe3",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}

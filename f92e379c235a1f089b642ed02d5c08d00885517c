@@ -16,6 +16,24 @@
       "message": "Is there any 845/710 devices that are actually building audio HAL from source? AFAIK all official devices are shipping with prebuilt audio HAL.",
       "revId": "f92e379c235a1f089b642ed02d5c08d00885517c",
       "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fdfe1619_de569c0d",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000728
+      },
+      "writtenOn": "2023-01-27T07:52:38Z",
+      "side": 1,
+      "message": "I am building fajita unofficially and it is building the HAL from source.",
+      "parentUuid": "4234e593_8196c1f5",
+      "revId": "f92e379c235a1f089b642ed02d5c08d00885517c",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
     }
   ]
 }

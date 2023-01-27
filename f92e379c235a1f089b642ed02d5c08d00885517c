@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "4234e593_8196c1f5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000126
+      },
+      "writtenOn": "2023-01-27T07:16:15Z",
+      "side": 1,
+      "message": "Is there any 845/710 devices that are actually building audio HAL from source? AFAIK all official devices are shipping with prebuilt audio HAL.",
+      "revId": "f92e379c235a1f089b642ed02d5c08d00885517c",
+      "serverId": "8ba0da3e-d57f-4bbe-ac74-faf358ba962a"
+    }
+  ]
+}
